@@ -15,5 +15,6 @@ The following topics are covered in this project:
 4. Linear regression with multiple variables
 5. Using categorical features for machine learning
 6. Regression coefficients and feature importance
-7. Other models and techniques for regression using Scikit-learn
-8. Applying linear regression to other datasets
+7. Creating a training and test set for reporting results
+
+Once our model has been created and trained using the test dataset we can use our model to predict the medical expense of new customers by simply looking at data such as age , weight , BMI, sex, no. of children, etc.
