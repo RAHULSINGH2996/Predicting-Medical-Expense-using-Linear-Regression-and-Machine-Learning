@@ -17,4 +17,4 @@ The following topics are covered in this project:
 6. Regression coefficients and feature importance
 7. Creating a training and test set for reporting results
 
-Once our model has been created and trained using the test dataset we can use our model to predict the medical expense of new customers by simply looking at data such as age , weight , BMI, sex, no. of children, etc.
+Once our model has been created and trained using the test dataset we can use our model to predict the medical expense of new customers by simply providing the data such as age , weight , BMI, sex, no. of children, etc as inputs to our model.
